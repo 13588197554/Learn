@@ -1,7 +1,7 @@
 # Learn
 Just for learning
 
-##Git command
+## Git command
 	* git add --all
 	* git commit -m ""
 	* git push origin master
